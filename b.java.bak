@@ -3,11 +3,9 @@ class
 	public static void main(String[] args) 
 	{
 		int a=10;
-<<<<<<< HEAD
 	    int b=120;
 		int c=30;
-=======
->>>>>>> 84149604ce3303bdc0f9b273bc5a9c0dd40c8459
+
 		System.out.println("hello class");
 	}
 }
