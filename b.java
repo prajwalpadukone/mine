@@ -6,5 +6,6 @@ class
 	    int b=120;
 		int c=30;
 		System.out.println("hello class");
+		System.out.println("hello i am prajwal");
 	}
 }
